@@ -1,7 +1,7 @@
 local Menu = loadstring(game:HttpGet("https://raw.githubusercontent.com/khenn791/library/refs/heads/main/cuh.txt",true))()
 
 task.spawn(function()
-    Menu:NameUpdate(0.6, 'ThisScriptSucksNiggaOverFlowWasHere', '.nigger suck my dick')
+    Menu:NameUpdate(0.6, 'ThisScriptSucksNiggaOverFlowWasHere', '.nigger suck my dick-')
 end)
 
 
@@ -2478,7 +2478,7 @@ RESIDUE.Transparency = NumberSequence.new{
     NumberSequenceKeypoint.new(1, 1)
 }
 
-setclipboard("https://discord.gg/UgQAPcBtpy")
+setclipboard("https://disacord.gg/VmPyUrBBmd>")
 
 
 local ELECTRIC = Instance.new('ParticleEmitter')
