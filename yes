@@ -3288,7 +3288,7 @@ toggle_lock = function()
             else
                 return
             end
-            Button.Text = "Lock: " .. "<font color='rgb(0, 255, 0)'>ON</font>"
+            Button.Text = "TapIfUAreGay " .. "<font color='rgb(0, 255, 0)'>ON</font>"
             Menu.Notify("Target Locked: " .. tostring(TargetPlr.DisplayName), 2)
         end
     end
