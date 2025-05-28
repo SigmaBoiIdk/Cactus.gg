@@ -3278,7 +3278,7 @@ toggle_lock = function()
             if TargetAimbot.LookAt then
                 LocalPlayer.Character.Humanoid.AutoRotate = true
             end
-            Button.Text = "Lock: " .. "<font color='rgb(255, 0, 0)'>OFF</font>"
+            Button.Text = "rbxassetid://96086736054343 " .. "<font color='rgb(255, 0, 0)'></font>"
             Menu.Notify("Untargeted", 2)
         else
             TargBindEnabled = true
@@ -3288,7 +3288,7 @@ toggle_lock = function()
             else
                 return
             end
-            Button.Text = "TapIfUAreGay " .. "<font color='rgb(0, 255, 0)'>ON</font>"
+            Button.Text = "rbxassetid://96086736054343 " .. "<font color='rgb(0, 255, 0)'></font>"
             Menu.Notify("Target Locked: " .. tostring(TargetPlr.DisplayName), 2)
         end
     end
